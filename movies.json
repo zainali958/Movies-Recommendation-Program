@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Inception",
+        "genre": ["Sci-fi", "Thriller"],
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": ["Drama", "Prison"],
+        "rating": 9.3,
+        "director": "Frank Darabont"
+    },
+    {
+        "title": "The GodFather",
+        "genre": ["Crime", "Drama"],
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": ["Action", "Crime", "Drama"],
+        "rating": 9.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Schindler's List",
+        "genre": ["Biography", "Drama", "History"],
+        "rating": 8.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "title": "Pulp fiction",
+        "genre": ["Crime", "Drama"],
+        "rating": 8.9,
+        "director": "Quentin Tarantina"
+    }
+]
